@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f21c6e50-91e2-4c82-b818-6c9d92376740" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ezjust.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bot/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bot/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bot/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/cats_and_products.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/user_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/user_models/utils/user_model_seeder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bot/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +37,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="gitignore" value="15" />
           <entry key="py" value="7657" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="PLAIN_TEXT" value="15" />
           <entry key="Python" value="7657" />
         </counts>
       </usages-collector>
@@ -84,7 +78,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bot/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -159,6 +157,7 @@
         <option value="$PROJECT_DIR$/bot/config.py" />
         <option value="$PROJECT_DIR$/models/cats_and_products.py" />
         <option value="$PROJECT_DIR$/bot/main.py" />
+        <option value="$PROJECT_DIR$/bot/.gitignore" />
       </list>
     </option>
   </component>
@@ -423,7 +422,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bot/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
